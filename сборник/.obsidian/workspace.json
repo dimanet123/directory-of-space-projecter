@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "cf89b1fbbca861d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff1232b054d62439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c3677284811783e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e67cc142667a9fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6620e50833e6939f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d758391be162a18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b1f16472ddfd9c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c8cd7df971f817f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a3f689a750abcb6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd60e659607b1d45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce9fcc67ee55ad9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7974ae2b48f3e180",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3267083f0eafdd6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d1468285033a2ef2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "6c3677284811783e",
+  "lastOpenFiles": [
+    "Автоматизированный расчет необходимой характеристической скорости для перевода с одной круговой орбиты в другую.md",
+    "Гомановский перелет.md",
+    "Перевод круговой орбиты в эллиптическую.md",
+    "картинки/Гомановский переход 2.png",
+    "картинки/Гомановский переход 1 1.png",
+    "картинки/Гомановский переход 1.png",
+    "Определение параметров орбиты и ее построение.md",
+    "Определение параметров орбиты и ее построение.html",
+    "Программирование.md",
+    "Все есть функция.md",
+    "Баллистика.md",
+    "Автоматический расчет потребной скорости для перехода на эллиптическую орбиту.md",
+    "Орбитальная механика.md",
+    "Параметры орбиты.md",
+    "Баллистика спуска в атмосферу.md",
+    "Установка Python и настройка среды Spyder.md",
+    "Автоматическое построение орбиты по заданным параметрам.md",
+    "Программирование - не магия, но инструмент.md",
+    "Начало.md",
+    "картинки/Pasted image 20240223230444.png",
+    "картинки/Pasted image 20240223230359.png",
+    "картинки/Pasted image 20240223230009.png",
+    "картинки/Pasted image 20240223225957.png",
+    "картинки/Pasted image 20240223225912.png",
+    "картинки/Pasted image 20240223225812.png",
+    "картинки/Pasted image 20240223225525.png",
+    "картинки"
+  ]
+}
