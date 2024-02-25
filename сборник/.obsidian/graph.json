@@ -18,7 +18,7 @@
       "query": "tag:#Main_2  ",
       "color": {
         "a": 1,
-        "rgb": 5431394
+        "rgb": 6938706
       }
     }
   ],
@@ -28,10 +28,10 @@
   "nodeSizeMultiplier": 1.32754677754678,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 20,
-  "linkStrength": 1,
+  "centerStrength": 0.100831600831601,
+  "repelStrength": 13.991683991684,
+  "linkStrength": 0.653846153846154,
   "linkDistance": 500,
-  "scale": 0.2726859917360098,
+  "scale": 0.17874521860402054,
   "close": true
 }

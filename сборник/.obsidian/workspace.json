@@ -35,8 +35,12 @@
             "id": "c5b54491711099d9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Баллистика спуска в атмосферу.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -74,9 +78,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6613f9dd5df2efad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Внеатмосферный участок полета.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0856f651c1bad40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Атмосферный участок полета КА.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "991bef255307966f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Определение потребной скорости для схода КА.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44e09546da6440e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Параметры орбиты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       },
       {
         "id": "8c96e5f1cd4cbd08",
@@ -100,6 +152,18 @@
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "08cbc550718106f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Определение параметров орбиты и ее построение.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -161,8 +225,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,6 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Определение потребной скорости для схода КА.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Определение потребной скорости для схода КА.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +284,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Определение потребной скорости для схода КА.md"
+              }
             }
           }
         ]
@@ -239,9 +306,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c5b54491711099d9",
+  "active": "8d758391be162a18",
   "lastOpenFiles": [
+    "картинки/Pasted image 20240226004308.png",
+    "Определение параметров орбиты и ее построение.md",
+    "Определение потребной скорости для схода КА.md",
+    "Параметры орбиты.md",
+    "Перевод круговой орбиты в эллиптическую.md",
+    "Атмосферный участок полета КА.md",
+    "картинки/Сход с орбиты.png",
+    "Внеатмосферный участок полета.md",
     "Баллистика спуска в атмосферу.md",
+    "Это - справочник проектанта.md",
     "Орбитальная механика.md",
     "Баллистика.md",
     "Программирование.md",
@@ -250,9 +326,6 @@
     "ЭРД - электро-реактивные двигатели.md",
     "Формула Циолковского.md",
     "Орбиты КА и определение скоростей маневров.md",
-    "Определение параметров орбиты и ее построение.md",
-    "Перевод круговой орбиты в эллиптическую.md",
-    "Параметры орбиты.md",
     "Массовый анализ.md",
     "Все есть функция.md",
     "Автоматизированный расчет необходимой характеристической скорости для перевода с одной круговой орбиты в другую.md",
@@ -271,7 +344,6 @@
     "картинки/Pasted image 20240223225957.png",
     "картинки/Pasted image 20240223225912.png",
     "картинки/Pasted image 20240223225812.png",
-    "картинки/Pasted image 20240223225525.png",
     "картинки"
   ]
 }
