@@ -4,107 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b45549308000d246",
+        "id": "8c96e5f1cd4cbd08",
         "type": "tabs",
         "children": [
           {
-            "id": "fefb455be8349a5a",
+            "id": "8dd3fc3d4b126991",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Все есть функция.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "c40a5575cc02e291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Параметры орбиты.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5b54491711099d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Баллистика спуска в атмосферу.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aa7ccd6d379817e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Орбиты КА и определение скоростей маневров.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "604463d89e27cbf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ЭРД - электро-реактивные двигатели.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e7295c285caf1a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ракетные двигатели.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6613f9dd5df2efad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Внеатмосферный участок полета.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0856f651c1bad40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Атмосферный участок полета КА.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "991bef255307966f",
+            "id": "e32d076715f57e81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -116,70 +28,18 @@
             }
           },
           {
-            "id": "44e09546da6440e6",
+            "id": "c30ac11c5c57e69c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Параметры орбиты.md",
+                "file": "Автоматическое вычисление потребной скорости для схода с круговой орбиты.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
-      },
-      {
-        "id": "8c96e5f1cd4cbd08",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8dd3fc3d4b126991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Определение параметров орбиты и ее построение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "750d6a965fcfd7b3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "08cbc550718106f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Определение параметров орбиты и ее построение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "608c8b2ed934320f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Формула Циолковского.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Определение потребной скорости для схода КА.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Определение потребной скорости для схода КА.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Определение потребной скорости для схода КА.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -306,12 +162,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8d758391be162a18",
+  "active": "8dd3fc3d4b126991",
   "lastOpenFiles": [
-    "картинки/Pasted image 20240226004308.png",
-    "Определение параметров орбиты и ее построение.md",
+    "картинки/~$агмент.fr~",
+    "Автоматическое вычисление потребной скорости для схода с круговой орбиты.md",
     "Определение потребной скорости для схода КА.md",
+    "Определение параметров орбиты и ее построение.md",
+    "Все есть функция.md",
     "Параметры орбиты.md",
+    "картинки/Pasted image 20240226004308.png",
     "Перевод круговой орбиты в эллиптическую.md",
     "Атмосферный участок полета КА.md",
     "картинки/Сход с орбиты.png",
@@ -327,7 +186,6 @@
     "Формула Циолковского.md",
     "Орбиты КА и определение скоростей маневров.md",
     "Массовый анализ.md",
-    "Все есть функция.md",
     "Автоматизированный расчет необходимой характеристической скорости для перевода с одной круговой орбиты в другую.md",
     "Гомановский перелет.md",
     "картинки/Гомановский переход 2.png",
@@ -343,7 +201,6 @@
     "картинки/Pasted image 20240223230009.png",
     "картинки/Pasted image 20240223225957.png",
     "картинки/Pasted image 20240223225912.png",
-    "картинки/Pasted image 20240223225812.png",
     "картинки"
   ]
 }
