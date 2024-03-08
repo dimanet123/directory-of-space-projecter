@@ -11,11 +11,34 @@
             "id": "42db8a5ec658383f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "69efd37d36f08ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Установка Python и настройка среды Spyder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c2494f171840d92",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "картинки/Pasted image 20240223225525.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "циол",
+                "query": "постпроцессинга",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 570.5
+    "width": 379.5
   },
   "right": {
     "id": "a3f689a750abcb6b",
@@ -81,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Программирование/Установка Python и настройка среды Spyder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Программирование/Установка Python и настройка среды Spyder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Программирование/Установка Python и настройка среды Spyder.md"
+              }
             }
           }
         ]
@@ -138,10 +165,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8d758391be162a18",
+  "active": "69efd37d36f08ea5",
   "lastOpenFiles": [
-    "Программирование/Автоматическое построение орбиты по заданным параметрам.md",
+    "картинки/Pasted image 20240223225525.png",
     "Программирование/Установка Python и настройка среды Spyder.md",
+    "Применение метода Рунге-Кутта 4-го порядка.md",
+    "Программирование/Автоматическое построение орбиты по заданным параметрам.md",
     "Орбитальная механика.md",
     "Массовый анализ.md",
     "Формула Циолковского.md",
@@ -173,7 +202,6 @@
     "картинки/Гомановский переход 1 1.png",
     "картинки/Гомановский переход 1.png",
     "Определение параметров орбиты и ее построение.html",
-    "Начало.md",
     "картинки/Pasted image 20240223230444.png",
     "картинки/Pasted image 20240223230359.png",
     "картинки/Pasted image 20240223230009.png",

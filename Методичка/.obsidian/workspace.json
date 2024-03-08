@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "b1088158b2de0354",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ef36a722b6352b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75f3425022eb0e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Численное моделирование колебаний маятника с последующим постпроцессингом в системе VRConcept.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f62008c9be669a80",
+    "type": "split",
+    "children": [
+      {
+        "id": "30048e00edcaf775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d695529ef97c824",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1aff6efdc55dce3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ухищерений",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3595ea308db0ab0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2428fe0c61cf4039",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ae3c496f790226d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29821418823cb121",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Численное моделирование колебаний маятника с последующим постпроцессингом в системе VRConcept.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a36c1944bb49d427",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Численное моделирование колебаний маятника с последующим постпроцессингом в системе VRConcept.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f84abf1b11d5743f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5422b2e32f7941f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Численное моделирование колебаний маятника с последующим постпроцессингом в системе VRConcept.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "75f3425022eb0e29",
+  "lastOpenFiles": [
+    "Pasted image 20240308111635.png",
+    "Pasted image 20240308105910.png",
+    "Pasted image 20240308105850.png",
+    "Pasted image 20240308105454.png",
+    "Безымянный-1 1.png",
+    "Безымянный-1.png",
+    "Pasted image 20240308102742.png",
+    "Pasted image 20240308102610.png",
+    "Pasted image 20240308102535.png",
+    "Pasted image 20240308102417.png",
+    "Pasted image 20240308102057.png",
+    "Численное моделирование колебаний маятника с последующим постпроцессингом в системе VRConcept.md",
+    "Без названия"
+  ]
+}
